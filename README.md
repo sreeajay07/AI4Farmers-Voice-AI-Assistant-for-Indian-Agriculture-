@@ -1,4 +1,4 @@
-# AI4Farmers: Voice AI Assistant for Indian Agriculture 🌾🇨🇳
+# AI4Farmers: Voice AI Assistant for Indian Agriculture 🌾
 
 ## Table of Contents
 
