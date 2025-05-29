@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Streamlit/Flask specific
+.streamlit/
+.streamlit/config.toml # Or other specific Streamlit config
+instance/ # Flask instance folder
+
+# Environment variables files
+.env
+*.env
+*.pem # Private keys if any
+
+# Temporary audio files (from playsound or gTTS)
+*.mp3
+*.wav
+temp*/
+
+# Ollama models (if you're pulling them locally)
+# Though generally, Ollama manages these separately.
+# If you have a specific Ollama model directory *inside* your project, add it here.
+# For example:
+# ollama_models/
